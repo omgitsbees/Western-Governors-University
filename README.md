@@ -78,3 +78,39 @@ Recipients of this credential complete the following tasks and deliverables as p
     Produced and interpreted descriptive statistics, including measures of central tendency, standard deviation, and shape of a selected data set. Produced and interpreted a Market Basket Analysis on a transactional data set.
     Deployed a data product based on business requirements and planned how to monitor the deployment’s performance over time.
 
+![Screenshot 2025-03-23 112839](https://github.com/user-attachments/assets/c48127c6-9dcc-45a9-bf1c-2d540b17e2fe)
+
+Credential Detail
+
+Recipients of WGU’s Data Engineering Specialization have demonstrated competence in the following areas via rigorous assessment activities completed through Western Governors University:
+Cloud Data Systems
+
+    The learner explains the advantage of using a cloud data solution.
+    The learner recommends a cloud data storage structure to address organizational requirements.
+    The learner implements a cloud data storage structure to address organizational requirements.
+
+Data Processing
+
+    The learner recommends a data processing solution that includes a data flow diagram and a process flow diagram.
+    The learner implements a process that extracts, transforms, and loads data for use.
+    The learner creates a plan for continuous monitoring of data processing pipelines.
+
+Data Analytics at Scale
+
+    The learner explains the advantage of using a big data analytics solution.
+    The learner proposes a large-scale data analytics solution to meet a business need.
+    The learner implements a big data architecture to demonstrate the solution to the business problem.
+
+Competency Demonstration Highlights
+
+Recipients of this credential complete the following tasks and deliverables as part of their assessment activities:
+
+    Recommended a cloud-based business solution based on an analysis of functional and non-functional requirements.
+    Documented proposed cloud storage solution for an organization based on the organization’s requirements.
+    Designed and built a sandbox environment to demonstrate proposed cloud storage solution.
+    Recommended a comprehensive data flow solution for an organization that optimally integrates with the organization’s existing systems and processes.
+    Extracted data from provided data sources and transformed it to meet business and analytical requirements before loading it into a designated data repository.
+    Developed a comprehensive plan for continuous monitoring of data systems to ensure the integrity, reliability, and efficiency of the data processing system.
+    Proposed a big data architecture solution to address a business need and created a presentation to communicate the proposal to appropriate stakeholders.
+    Demonstrated how to implement a data architecture solution in a sandbox environment.
+
