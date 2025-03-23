@@ -114,3 +114,5 @@ Recipients of this credential complete the following tasks and deliverables as p
     Proposed a big data architecture solution to address a business need and created a presentation to communicate the proposal to appropriate stakeholders.
     Demonstrated how to implement a data architecture solution in a sandbox environment.
 
+![Screenshot 2025-03-23 113001](https://github.com/user-attachments/assets/30b5c01e-94cf-4499-840b-89d251ff7957)
+![Screenshot 2025-03-23 113011](https://github.com/user-attachments/assets/21e02ebf-5cb2-4e54-a529-940bc91f3d22)
