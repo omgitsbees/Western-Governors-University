@@ -3,7 +3,7 @@ This is my WGU - Masters of Science in Data Engineering portfolio!
 ![Screenshot 2025-04-04 133230](https://github.com/user-attachments/assets/081ff0d8-4899-4793-ae1a-576d017ea28f)
 
 ![Screenshot 2025-03-23 112556](https://github.com/user-attachments/assets/e710af7f-2a44-49c3-b772-c43bd15bfddc)
-
+ 
 Credential Detail
   
 Recipients of WGU’s Data Analytics Professional Certificate have demonstrated competence in the following areas via rigorous assessment activities completed through Western Governors University:
